@@ -89,7 +89,7 @@ export default function Header(){
             <Wrapper>
                 <Logo href={'/'}>TechTi</Logo>
                 <StyleNav mobileNavActive={mobileNavActive}>
-                    <NavLink href={'/'}>Homee</NavLink>
+                    <NavLink href={'/'}>Home</NavLink>
                     <NavLink href={'/products'}>All products</NavLink>
                     <NavLink href={'/categories'}>Categories</NavLink>
                     <NavLink href={'/account'}>Account</NavLink>
