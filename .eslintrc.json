@@ -1,5 +1,0 @@
-{
-  "presets": ["next/babel"],
-  "plugins": ["babel-plugin-styled-components"],
-  "extends": "next/core-web-vitals"
-}
